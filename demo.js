@@ -6,3 +6,6 @@ console.log("Son dep trai vcl");
 
 console.log("lalakjashd");
 var a = 10;
+
+console.log(a - 12);
+
